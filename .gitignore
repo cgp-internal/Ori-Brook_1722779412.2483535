@@ -1,0 +1,18 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor config files
+*.iml
+.idea/
+.vs/
+.vscode/
+*.swp
+*.swo
+
+# Other
+node_modules/
+dist/
+build/
