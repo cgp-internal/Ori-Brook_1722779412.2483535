@@ -1,13 +1,13 @@
 Project: Simple Web Page
 =====================
 
-This project contains a simple web page that displays "Hello World" with minimalistic content, adhering to HTML5 modern web standards.
+This project contains a simple web page that displays "hellO worlD" with minimalistic content, adhering to HTML5 modern web standards.
 
 Setup
 -----
 
 1. Clone the repository to your local machine.
-2. Open the `index.html` file in a web browser to see the "Hello World" web page.
+2. Open the `index.html` file in a web browser to see the "hellO worlD" web page.
 
 Run Guide
 ---------
